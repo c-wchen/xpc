@@ -1,0 +1,4 @@
+scrapy
+fake_useragent
+scrapy_redis
+pymysql
